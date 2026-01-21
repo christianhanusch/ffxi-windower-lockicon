@@ -112,4 +112,4 @@ Provided as-is for personal use.
 
 ## Author
 
-Alexis Duffy
+Christian Hanusch
