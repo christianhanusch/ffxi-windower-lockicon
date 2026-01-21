@@ -1,0 +1,44 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <anchor>target</anchor>
+        <bg_alpha>140</bg_alpha>
+        <color>
+            <1>255</1>
+            <2>255</2>
+            <3>255</3>
+            <4>255</4>
+        </color>
+        <font>Arial</font>
+        <icon_alpha>255</icon_alpha>
+        <icon_locked>lock.png</icon_locked>
+        <icon_size>28</icon_size>
+        <icon_unlocked>unlock.png</icon_unlocked>
+        <mode>text</mode>
+        <pad>6</pad>
+        <show_unlocked>false</show_unlocked>
+        <size>14</size>
+        <stroke>
+            <1>0</1>
+            <2>0</2>
+            <3>0</3>
+            <4>220</4>
+            <5>2</5>
+        </stroke>
+        <target_dx>0</target_dx>
+        <target_dy>-120</target_dy>
+        <text_gap>6</text_gap>
+        <text_locked>🔒 LOCK</text_locked>
+        <text_unlocked>UNLOCK</text_unlocked>
+        <x>40</x>
+        <y>200</y>
+    </global>
+    <cmvika>
+        <anchor>fixed</anchor>
+        <mode>both</mode>
+        <target_dx>315</target_dx>
+        <target_dy>330</target_dy>
+        <x>2035</x>
+        <y>1050</y>
+    </cmvika>
+</settings>
