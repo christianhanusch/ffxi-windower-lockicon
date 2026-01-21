@@ -78,8 +78,8 @@ lockicon/
 ├── lock.png
 ├── README.md
 └── images/
-    ├── one.jpeg
-    └── two.jpeg
+    ├── one.jpg
+    ├── two.jpg
 ```
 
 ---
@@ -87,10 +87,10 @@ lockicon/
 ## Demo
 
 ### Locked Target (Indicator Visible)
-![Lock indicator visible](images/one.jpeg)
+![Lock indicator visible](images/one.jpg)
 
 ### Unlocked / No Target (Indicator Hidden)
-![Lock indicator hidden](images/two.jpeg)
+![Lock indicator hidden](images/two.jpg)
 
 ---
 
