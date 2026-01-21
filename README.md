@@ -87,10 +87,10 @@ lockicon/
 ## Demo
 
 ### Locked Target (Indicator Visible)
-![Lock indicator visible](images/one.JPG)
+![Lock indicator visible](lockicon/images/one.JPG)
 
 ### Unlocked / No Target (Indicator Hidden)
-![Lock indicator hidden](images/two.JPG)
+![Lock indicator hidden](lockicon/images/two.JPG)
 
 ---
 
