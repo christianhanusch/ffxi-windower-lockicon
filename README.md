@@ -106,7 +106,8 @@ lockicon/
 
 ## License
 
-Provided as-is for personal use.
+Licensed under the Apache License, Version 2.0.  
+See the LICENSE file for details.
 
 ---
 
